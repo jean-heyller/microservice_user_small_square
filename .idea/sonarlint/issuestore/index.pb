@@ -17,3 +17,15 @@ Smicroservice_user/src/main/java/com/example/microservice_user/domain/model/Rol.
 ]microservice_user/src/main/java/com/example/microservice_user/domain/api/IRolServicePort.java,f\4\f464e2045f32ca5236001a27107192402b8b447f
 ê
 `microservice_user/src/main/java/com/example/microservice_user/domain/api/usecase/RolUseCase.java,2\d\2da5679065fcbb9ebcb2f8737b2686517a27429f
+©
+ymicroservice_user/src/main/java/com/example/microservice_user/adapters/driven/driving/http/dto/request/AddRolRequest.java,7\5\755c78d8c31384697b5c362e7219731257306a98
+•
+umicroservice_user/src/main/java/com/example/microservice_user/adapters/driven/driving/http/util/AdapterConstants.java,4\3\43d7a9ac8048f0809c53b7d4961e67f2577a7e35
+I
+microservice_user/gradlew,7\b\7b26b6cfb1bb8b56e625234003246863985f3221
+®
+xmicroservice_user/src/main/java/com/example/microservice_user/adapters/driven/driving/http/mapper/IRolRequestMapper.java,6\7\6791a4134ff872c0bcb5b926a91ebd19a2162570
+∑
+Ümicroservice_user/src/main/java/com/example/microservice_user/adapters/driven/driving/http/controller/RolRequestControllerAdapter.java,6\b\6bca8e72973eaf35f73052780e1b4c85c4531927
+í
+bmicroservice_user/src/main/java/com/example/microservice_user/configuration/BeanConfiguration.java,9\0\9032b8e2e96ee064de09fb8822f2a98e45977e24

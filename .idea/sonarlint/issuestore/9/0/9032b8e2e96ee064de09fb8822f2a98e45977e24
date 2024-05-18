@@ -1,0 +1,7 @@
+
+ 
+java:S1128"XRemove this unused import 'com.example.microservice_user.domain.api.usecase.RolUseCase'.(›ýŒôþÿÿÿÿ8«È¾Óø1J$2780a51d-07d0-46e5-9891-a7ad0901ceb4
+¡
+java:S1128"YRemove this unused import 'com.example.microservice_user.domain.spi.IRolPersistencePort'.(ñáŠìúÿÿÿÿ8«È¾Óø1J$1cab4243-0ebd-46dc-bf22-099a64362ab7
+‹
+java:S1128"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Þ8«È¾Óø1J$08595a4f-d699-4a9c-88f4-fcf21060d23f
