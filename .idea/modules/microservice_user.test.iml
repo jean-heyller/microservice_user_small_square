@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module version="4">
-  <component name="SonarLintModuleSettings">
-    <option name="uniqueId" value="80ac02a9-7bd0-42cd-92bf-95decfff2eb8" />
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/../../microservice_user/build/generated/sources/annotationProcessor/java/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../microservice_user/build/generated/sources/annotationProcessor/java/test" isTestSource="true" generated="true" />
+    </content>
   </component>
 </module>

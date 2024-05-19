@@ -13,4 +13,8 @@ public class AdapterConstants {
 
     public static final String FIELD_DESCRIPTION_NULL_MESSAGE = "`description` cannot be null";
 
+    public static final String FIELD_DESCRIPTION_SIZE_MESSAGE = "`description` cannot be greater than 90 characters";
+
+    public static final String FIELD_NAME_SIZE_MESSAGE = "`name` cannot be greater than 50 characters";
+
 }
